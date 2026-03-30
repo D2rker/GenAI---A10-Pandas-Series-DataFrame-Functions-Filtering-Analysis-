@@ -7,3 +7,5 @@ Task 4- Create a dataframe.</br>
 Task 5- Important dataframe funtions.</br>
 Task 6- Filtering & conditional selection.</br>
 Task 7- Grouping & basic analysis.</br>
+Task 8- Pandas plotting(simple graph).</br>
+Task 9- Mini use case: sales data analysis.</br>
