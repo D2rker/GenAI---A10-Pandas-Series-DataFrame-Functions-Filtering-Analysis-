@@ -1,12 +1,12 @@
 import pandas as pd
 
-data = {
+students = {
     'Name' : ['amit', 'neha', 'rahul', 'sneha', 'pooja'],
     'Marks' : [78, 85, 90, 66, 72],
     'Subject' : ['math', 'math', 'science', 'science', 'math']
 }
 
-collection = pd.DataFrame(data)
+collection = pd.DataFrame(students)
 
 # print first 3 rows
 print("first 3 rows")
